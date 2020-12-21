@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="click_on_the_upper_left_icon_to_nopen_the_left_side_drawer">Click on the upper-left icon to\nopen the left-side drawer.</string>
+    <string name="todo">TODO</string>
+    <string name="not_prov">Not Provided.</string>
+</resources>
